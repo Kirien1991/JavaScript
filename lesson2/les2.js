@@ -1,15 +1,15 @@
 //переменная//
-console.log("Hello World");
+console.log("Hello");
 
 //инструкция, пустая ;//
 //statement инструкция полная//
-инструкция;
+statement;
 
 /*block statement блок инструкций для обьединения
 нескольких инструкций в составную*/
 
 {
-  инструкция;
-  инструкция;
-  инструкция;
+  statement;
+  statement;
+  statement;
 }
